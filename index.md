@@ -1,4 +1,4 @@
-# Hi, I'm Ajay Kadian 🚀
+# Hi, I'm Ajay Kadian 
 
 First Year CSE Student
 
