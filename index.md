@@ -1,5 +1,3 @@
-# Hi, I'm Ajay Kadian 
-
 First Year CSE Student
 
 ## Skills
